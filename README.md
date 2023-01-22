@@ -1,4 +1,4 @@
-# Template Writing Accoutability Contract
+# Writing Accoutability Contract
 
 The above MS Word document was revised and used 24 times over a six year period (2016-2021) with a collegue at a different institution.
 It is a form of writing accountability that operates on a daily basis during the work week. 
