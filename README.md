@@ -20,6 +20,9 @@ Markdown, org-mode, and LaTeX versions are provided above.
 I pared down the LaTeX version to fit one page.
 Its correpsonding PDF is posted too.
 The PDF was compiled on Overleaf.
+I used the LaTeX version to make the org-mode version with pandoc and some manual editing.
+The org-mode version can be previewed in GitHub by clicking on the filename.
+The markdown version can also be previewed on GitHub.
 
 It is too hard for most struggling writers to follow: It only works with the most committed writers who need this kind of structure.
 These contracts would appeal the most to the pioneer personality type of the Five Voices classification system.
