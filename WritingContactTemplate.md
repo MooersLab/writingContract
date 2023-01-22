@@ -1,21 +1,17 @@
 # WRITER CONTRACT Number 24
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. 
-The agreement is between ZZZZZ ZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). T
-he Contractor must do A-C each weekday while meeting conditions D-G. 
-The goal is to make steady progress on two writing projects a day. 
-This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
-
-The Contractor is required to do the following writing tasks per day. 
-The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. 
+The agreement is between ZZZZZ ZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor).
+The Contractor must do A-C each weekday while meeting conditions D-G.
+The goal is to make steady progress on two writing projects a day.
+The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects.
 The designated blocks of time in A-B do not need to be adjacent.
+The Contractor is required to do the following writing tasks per day. 
 
 A. Work on manuscript A1 for 90 minutes per day, M-F. 
 Manuscript A1 is the most important and urgent manuscript. 
-Its identity may change over the contract period. 
 
 B. Work on one grant proposal for 90 minutes per day, M-F. 
-The contractor has a R01 due October 5th and another due December 5th.
 
 C. Generative writing for one book reaching a minimum of 1000 new words by Friday of each week. 
 The contractor has a soft goal on adding 4000 words a month. The contractor will work on the book on the weekends. 
