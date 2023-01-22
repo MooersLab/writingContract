@@ -1,13 +1,36 @@
 # Writing Accoutability Contract
 
-## Preface
+## The problem
+
+Some (most) writers need some form of external structure to support the keeping of their daily writing schedule.
+
+## The Solutions
+
+One approach is to use an accountability mechanism of reporting one's progress to another person. 
+This can be done via the means of reciprocal writing contracts with the other person.
+This works best with two people who was closely matched in the strength of their daily writing habit.
+
+Another solution is to pay hundreds of dollars a year to participate in a on-line writing club where the members of a group hold each other accountable.
+Most of the people who join such groups are stuggling with sticking to a schedule.
+If you have a strong habit, this may not be for you.
+
+A third solution is to form or join a writing group that meets briefly once a week to share their progress.
+These groups are tricky to sustain.
+Most people drop out after a few meetings.
+
+This site provides template contracts for the first approach.
+
+## The details
 
 The above MS Word document was revised and used 24 times over six years (2016-2021) with a colleague at a different institution.
-The contract is a writing accountability tool that operates daily during the work week. 
-We would exchange e-mails at the end of the day to report our progress.
-We would exchange contracts at the beginning of a contract period.
+The contract is a writing accountability tool that operates daily during the work week between two people: each persion is a Contractor and serves as the reciprocal Mentor for the other writer. 
+We exchanged e-mails at the end of the day to report our progress.
+
+We exchanged contracts at the beginning of a contract period.
 Each person made their own contract with customized terms to support meeting their writing goals.
-A pared-down version of my contract 24 is posted.
+The above example has items A, B, and C. 
+It was very challenging to sustain these three writing projects in parallel, but often we have no choice.
+Item A would be sufficient for beginers how lack an daily established writing habit.
 
 Some people meet on Zoom and write during their schedueld writing times.
 We tried this once.
@@ -18,10 +41,7 @@ We had several breaks due to a sabbatical year and COVID infections.
 We used a Microsoft Word document because my partner did not use LaTeX.
 
 Markdown, org-mode, and LaTeX versions are provided above.
-I pared down the text of the LaTeX version to fit one page.
-Its correpsonding PDF is posted too.
 The PDF was compiled on Overleaf.
-I used the LaTeX version to make the org-mode version with pandoc and some manual editing.
 The org-mode and markdown versions can be previewed on GitHub by clicking on the filename.
 
 The contract is too hard for most struggling writers: It only works with the most committed writers who need this kind of structure.
@@ -29,15 +49,28 @@ These contracts may appeal the most to the *pioneer* personality type of the [Fi
 
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
 I met my partner in a subscription-based academic writing club.
-I used these contracts as a substitute for my daily participation in the writing club and was able to terminate my subscription.
+I used the writing contracts as a substitute for my daily participation in the writing club and was able to terminate my subscription.
 I would consider making the contracts again if I found the right partner.
 
 These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
-I continue to practice these habits during my writing sessions.
-I decided to share the contract on GitHub to benefit others.
+The last year of the contracts (2021), I published 11 papers (5 senior author papers).
+I continue to practice the habits listed in the contract during my writing sessions.
+I decided to share the contract on GitHub to help others with the development of their daily writing habit.
+
+## Zettelkastens
+
+The contract template mentions [zettelkastens](https://zettelkasten.de/posts/overview/) (slip-boxes).
+These are knowledge bases. 
+The paper version is akin to a card catalog of your knowledge.
+Many electronic versions have been implemented.
+Their graphical views of your knowledge web resembles an extended mindmap.
+
+I think [Obsidian](https://help.obsidian.md/Obsidian/Index) is the best option (i.e., intuitive to use, free, data stored locally).
+Emacs users will probably want to be [org-roam](https://www.orgroam.com/) because it is easier to capture entries on the fly than having to leave Emacs to use another application.
+You can alway migrate your org-roam notes to Obsidian if org-roam get too hard to manage.
 
 
-## WRITER CONTRACT Number 24
+## The unmodified WRITER CONTRACT Number 24
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
