@@ -20,7 +20,7 @@ It is too hard for most struggling writers to follow: It only works with the mos
 These contracts would appeal the most to the pioneer personality type of the Five Voices classification system.
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
 I met my partner in a subscription-based academic writing club.
-I used these contracts as a substitute for my participation in the writing club.
+I used these contracts as a substitute for my daily participation in the writing club and was able to terminate my subscription.
 I would consider making the contracts again if I found the right partner.
 
 These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
