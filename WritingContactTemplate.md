@@ -1,61 +1,56 @@
 # Writer Contract Number 1
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. 
-The agreement is between ZZZZZ ZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor).
-The Contractor must do A-C each weekday while meeting conditions D-G.
-The goal is to make steady progress on two writing projects a day.
-The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects.
+The agreement is between _______ _______ (Contractor) and ______ _______ (Mentor).
+The Contractor must do A-B each weekday while meeting conditions D-G and complete C by Friday.
+The Contractor may do `windfall' writing for A or B outside of their writing blocks on the same or other projects, but credit for this extra effort does carryover to the next day.
 The designated blocks of time in A-B do not need to be adjacent.
-The Contractor is required to do the following writing tasks per day. 
 
 A. Work on manuscript A1 for 90 minutes per day, M-F. 
 Manuscript A1 is the most important and urgent manuscript. 
 
 B. Work on one grant proposal for 90 minutes per day, M-F. 
 
-C. Generative writing for one book reaching a minimum of 1000 new words by Friday of each week. 
-The contractor has a soft goal on adding 4000 words a month. The contractor will work on the book on the weekends. 
+C. Generate 1000 new words for one book by Friday of each week. 
+The contractor will work on the book on the weekends and evenings durng the week. 
 
 D. Qualifying text includes:
-- Manuscripts, grant applications, books
--	editorial reviews of manuscripts and grant proposals
--	mind maps for planning manuscripts or grant applications
--	entries in writing logs
--	drafts of e-mails that are directly related to the project
--	heavily edited or newly generated scripts for making figures for the writing document
--	heavily edited or newly generated computer programs directly related to the project
--	entries to databases used in the research described in the paper.
--	entries in annotated bibliography
--	any other activity that advances the writing project
+- Manuscripts, grant applications, books.
+-	Editorial reviews of manuscripts and grant proposals.
+-	Mind maps for planning manuscripts or grant applications.
+-	Entries in writing logs.
+-	Drafts of e-mails that are directly related to the project.
+-	Heavily edited or newly generated scripts for making figures for the writing document.
+-	Heavily edited or newly generated computer programs directly related to the project.
+-	Entries to databases used in the research described in the paper.
+-	Entries in annotated bibliography.
+-	Any other activity that advances the writing project.
 
 E. Confirm achievement of A and B by sending an email with “Done" on the subject line to the Mentor by 11:59 PM. 
-Done on Friday’s means that the book writing is finished.
+Done on Friday’s means that the book writing goal has been achieved in addition to A and B that day.
 
-F. The contractor may not do the following during the writing blocks and will restart if any interruptions occur.
--	check e-mail
--	surf the web
--	listen to interview or news show videos on YouTube (music is okay if it is not distracting)
--	answer the phone
--	keep their office door open
--	accept visitors
+F. The Contractor may not do the following during the writing blocks and will restart the block if interrupted.
+-	Check e-mail.
+-	Surf the web.
+-	Listen to interview or news show videos on YouTube (music is okay if it is not distracting).
+-	Answer the phone.
+-	Keep their office door open.
+-	Accept visitors.
 
 G. During the writing blocks, the contractor may do the following:
--	use the Pomodoro Technique
--	take bio breaks
--	do planning related to the writing project
--	retrieve and read literature
--	make figures
--	analyze data
--	write cover letters
--	submit manuscripts
--	edit text
--	work on bibliographies
--	track writing progress in Excel workbook
+-	Use the Pomodoro Technique.
+-	Take bio breaks.
+-	Do planning related to the writing project.
+-	Retrieve and read literature.
+-	Make figures.
+-	Analyze data.
+-	Write cover letters.
+-	Submit manuscripts.
+-	Edit text.
+-	Work on bibliographies.
+-	Track writing progress in Excel workbook.
 
 Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
-
 Contractor’s signature:                                  Date: July 30, 2021
-
-
 Mentor’s signature:                                      Date: July 30, 2021
 
