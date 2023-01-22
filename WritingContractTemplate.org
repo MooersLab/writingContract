@@ -1,97 +1,61 @@
 #+Title:Writer Contract Number 1
-#+Options: toc:nil author:nil
+#+Options: title:nil date:nil toc:nil author:nil
 #+LaTeX_CLASS:article
-#+LaTeX_CLASS_OPTIONS:[9pt]
-#+LaTeX_HEADER:\usepackage[letterpaper, total={7.5in, 10.25in}]{geometry}
-#+LaTeX_HEADER:\usepackage[parfill]{parskip} % add blank line between paragraphs and do not indent paragraphs.
+#+LaTeX_CLASS_OPTIONS:[10.5pt]
+#+LaTeX_HEADER:\usepackage[letterpaper, total={7.0in, 9.0in}]{geometry}
+#+Latex_HEADER:\usepackage[parfill]{parskip} % add blank line between paragraphs and do not indent paragraphs.
 
+#+Latex:\thispagestyle{empty}
+#+LaTeX:\subsection*{Writer Contract No. 1}
+This agreement starts January 30, 2023 (the “effective date”) and will end on May 12, 2023. 
+The agreement is between $\langle$ Firstname Lastname $\rangle$ (Contractor) and $\langle$ Firstname Lastname $\rangle$  (Mentor).
+The Contractor must do A-B each weekday while meeting conditions D-G and complete C by Friday.
+The Contractor may do `windfall' writing for A or B outside of their writing blocks on the same or other projects, but credit for this extra effort does not carryover to the next day.
+The blocks of time in A-B need not be adjacent.
 
-This agreement starts August 1, 2021 (the "effective date") and will end
-on October 1, 2021. The agreement is between _firstname lastname_
-(Contractor) and _firstname lastname_ (Mentor). The Contractor must do
-A-C each weekday while meeting conditions D-G. The Contractor may do
-'windfall' writing outside of these writing blocks on the same or other
-projects. The designated blocks of time in A-B do not need to be
-adjacent. The Contractor is required to do the following writing tasks
-per day.
 
 A. Work on manuscript A1 for 90 minutes per day, M-F. Manuscript A1 is
 the most important and urgent manuscript.
 
 B. Work on one grant proposal for 90 minutes per day, M-F.
 
-C. Generative writing for one book reaching a minimum of 1000 new words
-by Friday of each week.
+C. Generate 1000 new words for one book by Friday of each week. 
+The contractor will work on the book on the weekends and evenings during the week. 
 
 D. Qualifying text includes:
 
-- Manuscripts, grant applications, books
-
-- Editorial reviews of manuscripts and grant proposals
-
-- Mind maps for planning manuscripts or grant applications
-
-- Entries in writing logs
-
-- Drafts of e-mails that are directly related to the project
-
-- Heavily edited or newly generated scripts for making figures for the
-  writing document
-
-- Heavily edited or newly generated computer programs directly related
-  to the project
-
+- Manuscripts, grant applications, books.
+- Reviews of manuscripts and grant proposals.
+- Mind maps for planning manuscripts or grant applications.
+- Entries in writing logs.
+- Drafts of e-mails that are directly related to the project.
+- Writing scripts for making figures and analyzing data.
 - Entries to databases used in the research described in the paper.
-
-- Entries in annotated bibliography
-
+- Entries in annotated bibliography or a zettelkasten.
 - Any other activity that advances the writing project
 
-E. Confirm achievement of A and B by sending an email with "Done" on the
-subject line to the Mentor by 11:59 PM. Done on Friday's means that the
-book writing is finished.
+E. Confirm achievement of A and B by sending an email with ``Done'' on the subject line to the Mentor by 11:59 PM.  ``Done'' on Friday’s means that the book writing goal has been achieved in addition to A and B that day. 
+Send ``Undone'' if A and B were not achieved.
+The contractor may request several breaks as negotiated with the Mentor.
 
-F. The contractor may not do the following during the writing blocks and
-will restart if any interruptions occur.
+F. The contractor may not do the following during the writing blocks and will restart if interrupted.
 
-- Check e-mail
-
-- Surf the web
-
-- Listen to interview or news show videos on YouTube (music is okay if
-  it is not distracting)
-
-- Answer the phone
-
-- Keep their office door open
-
-- Accept visitors
+- Check e-mail and surf the web.
+- Listen to interview or news show videos on YouTube (music is okay if  it is not distracting).
+- Answer the phone, keep their office door open, and accept visitors.
 
 G. During the writing blocks, the contractor may:
 
-- Use the Pomodoro Technique
+- Use the Pomodoro Technique.
+- Take bio breaks.
+- Do planning related to the writing project.
+- Retrieve and read literature.
+- Make figures or analyze data.
+- Write cover letters and submit manuscripts.
+- Track writing progress.
 
-- Take bio breaks
+Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
 
-- Do planning related to the writing project
+Contractor's signature: \hspace{3in}  Date:
 
-- Retrieve and read literature
-
-- Make figures
-
-- Analyze data
-
-- Write cover letters
-
-- Submit manuscripts - edit text
-
-- Work on bibliographies
-
-- Track writing progress in Excel workbook
-
-Contractor acknowledges to the Mentor that the Contractor agrees to
-abide by this Agreement.
-
-Contractor's signature: Date:
-
-Mentor's signature: Date:
+Mentor's signature:  \hspace{3.2in}  Date:
