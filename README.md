@@ -8,7 +8,7 @@ Some (most) writers need some form of external structure to support the keeping 
 
 1. One approach is to use an accountability mechanism of reporting one's progress to another person. 
 This can be done via the means of reciprocal writing contracts with the other person.
-This works best with two people who was closely matched in the strength of their daily writing habit.
+This works best with two people who was closely matched in the strength of their daily writing habit. *This site provides template contracts for the first approach.*
 
 2. Another solution is to pay hundreds of dollars a year to participate in a on-line writing club where the members of a group hold each other accountable.
 Most of the people who join such groups are stuggling with sticking to a schedule.
@@ -18,7 +18,7 @@ If you have a strong habit, this may not be for you.
 These groups are tricky to sustain.
 Most people drop out after a few meetings.
 
-This site provides template contracts for the first approach.
+
 
 ## The details
 
