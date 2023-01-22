@@ -1,4 +1,4 @@
-#+Title:WRITER CONTRACT Number 1
+#+Title:Writer Contract Number 1
 #+Options: toc:nil author:nil
 #+LaTeX_CLASS:article
 #+LaTeX_CLASS_OPTIONS:[9pt]
