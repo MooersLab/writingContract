@@ -50,7 +50,9 @@ G. During the writing blocks, the contractor may do the following:
 -	Work on bibliographies.
 -	Track writing progress in Excel workbook.
 
-Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
+The Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
+
 Contractor’s signature:                                  Date: July 30, 2021
+
 Mentor’s signature:                                      Date: July 30, 2021
 
