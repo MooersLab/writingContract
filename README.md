@@ -24,7 +24,7 @@ I decided to share the contract on GitHub to benefit others and to archive it.
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. The agreement is between Blaine Mooers (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
-1. Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
+Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
 
 A. Work on manuscript A1 for 90 minutes per day, M-F. Manuscript A1 is the most important and urgent manuscript. Its identity may change over the contract period. 
 
