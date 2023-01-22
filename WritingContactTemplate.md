@@ -1,4 +1,4 @@
-# WRITER CONTRACT Number 24
+# Writer Contract Number 1
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. 
 The agreement is between ZZZZZ ZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor).
@@ -39,7 +39,7 @@ F. The contractor may not do the following during the writing blocks and will re
 -	keep their office door open
 -	accept visitors
 
-G. During the writing blocks, the contractor may:
+G. During the writing blocks, the contractor may do the following:
 -	use the Pomodoro Technique
 -	take bio breaks
 -	do planning related to the writing project
