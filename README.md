@@ -3,29 +3,30 @@
 ## Preface
 
 The above MS Word document was revised and used 24 times over six years (2016-2021) with a colleague at a different institution.
-It is a form of writing accountability that operates daily during the work week. 
+The contract is a writing accountability tool that operates daily during the work week. 
 We would exchange e-mails at the end of the day to report our progress.
 We would exchange contracts at the beginning of a contract period.
-Each person made their own contract with this customized terms to support meeting their writing goals.
-My version of the contract 24 is posted.
+Each person made their own contract with customized terms to support meeting their writing goals.
+A pared-down version of my contract 24 is posted.
 
-Other people meet on Zoom and write during the Zoom session.
-We tried this once; my partner did not like it.
-
-We had several multi-month breaks due to a sabbatical year and COVID infections.
+Some people meet on Zoom and write during their schedueld writing times.
+We tried this once.
+My partner did not like it, so we gave up doing this.
 
 Our contracts were limited to several months.
+We had several breaks due to a sabbatical year and COVID infections.
 We used a Microsoft Word document because my partner did not use LaTeX.
+
 Markdown, org-mode, and LaTeX versions are provided above.
-I pared down the LaTeX version to fit one page.
+I pared down the text of the LaTeX version to fit one page.
 Its correpsonding PDF is posted too.
 The PDF was compiled on Overleaf.
 I used the LaTeX version to make the org-mode version with pandoc and some manual editing.
-The org-mode version can be previewed in GitHub by clicking on the filename.
-The markdown version can also be previewed on GitHub.
+The org-mode and markdown versions can be previewed on GitHub by clicking on the filename.
 
-It is too hard for most struggling writers to follow: It only works with the most committed writers who need this kind of structure.
-These contracts would appeal the most to the pioneer personality type of the Five Voices classification system.
+The contract is too hard for most struggling writers: It only works with the most committed writers who need this kind of structure.
+These contracts may appeal the most to the *pioneer* personality type of the [Five Voices](https://5voices.com/) personality classification system.
+
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
 I met my partner in a subscription-based academic writing club.
 I used these contracts as a substitute for my daily participation in the writing club and was able to terminate my subscription.
@@ -33,8 +34,7 @@ I would consider making the contracts again if I found the right partner.
 
 These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
 I continue to practice these habits during my writing sessions.
-
-I decided to share the contract on GitHub to benefit others and to archive it.
+I decided to share the contract on GitHub to benefit others.
 
 
 ## WRITER CONTRACT Number 24
