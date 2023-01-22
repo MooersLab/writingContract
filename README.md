@@ -16,9 +16,11 @@ Our contracts were limited to several months.
 We used a Microsoft Word document because my partner did not use LaTeX.
 Markdown, org-mode, and LaTeX versions are provided above.
 
-It is too hard for most struggling writers to follow: It only works with the most committed writers.
+It is too hard for most struggling writers to follow: It only works with the most committed writers who need this kind of structure.
+These contracts would appeal the most to the pioneer personality type of the Five Voices classification system.
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
-I met my partner in a subscription-based academic writing club. 
+I met my partner in a subscription-based academic writing club.
+I used these contracts as a substitute for my participation in the writing club.
 I would consider making the contracts again if I found the right partner.
 
 These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
