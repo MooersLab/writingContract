@@ -1,30 +1,33 @@
 # Writing Accoutability Contract
 
-The above MS Word document was revised and used 24 times over a six year period (2016-2021) with a collegue at a different institution.
-It is a form of writing accountability that operates on a daily basis during the work week. 
-We would exchange e-mails at the end the day to report our progress.
-We woud exchange contracts at the begining of a contract period.
+## Preface
+
+The above MS Word document was revised and used 24 times over six years (2016-2021) with a colleague at a different institution.
+It is a form of writing accountability that operates daily during the work week. 
+We would exchange e-mails at the end of the day to report our progress.
+We would exchange contracts at the beginning of a contract period.
 
 Other people meet on Zoom and write during the Zoom session.
-We tried this once; my parnter did not like it.
+We tried this once; my partner did not like it.
 
-We had several multi-months breaks due to a sabbatical year and COVID infections.
+We had several multi-month breaks due to a sabbatical year and COVID infections.
 
 Our contracts were limited to several months.
-We used a MS Word document becuase my partner did not use LaTeX.
+We used a Microsoft Word document because my partner did not use LaTeX.
+Markdown, org-mode, and LaTeX versions are provided above.
 
 It is too hard for most struggling writers to follow: It only works with the most committed writers.
-It is not easy to find another like-minded person to serve of a writing partner (called the *Mentor* in the contract).
+Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
 I met my partner in a subscription-based academic writing club. 
-I would consider doing the contracts again if I found the right partner.
+I would consider making the contracts again if I found the right partner.
 
-I think that these contracts helped me finish more writing projects and practice the habits listed below during writing sessions.
-The habit that I had the most trouble practicing was the closing of my office door.
+These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
+I continue to practice these habits during my writing sessions.
 
 I decided to share the contract on GitHub to benefit others and to archive it.
 
 
-## WRITER CONTRACT 24
+## WRITER CONTRACT Number 24
 
 This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. The agreement is between Blaine Mooers (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
