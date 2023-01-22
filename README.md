@@ -19,7 +19,6 @@ These groups are tricky to sustain.
 Most people drop out after a few meetings.
 
 
-
 ## The details
 
 The above MS Word document was revised and used 24 times over six years (2016-2021) with a colleague at a different institution.
@@ -33,18 +32,21 @@ It was very challenging to sustain these three writing projects in parallel, but
 Item A would be sufficient for beginers how lack an daily established writing habit.
 
 Some people meet on Zoom and write during their schedueld writing times.
-We tried this once.
-My partner did not like it, so we gave up doing this.
+This approach may be too stressful for some writing partners.
 
 Our contracts were limited to several months.
 We had several breaks due to a sabbatical year and COVID infections.
-We used a Microsoft Word document because my partner did not use LaTeX.
+We used a Microsoft Word document.
 
-Markdown, org-mode, and LaTeX versions are provided above.
-The PDF was compiled on Overleaf.
+Markdown, org-mode, and LaTeX versions are also provided above.
+The PDF was compiled on Overleaf from the tex file.
 The org-mode and markdown versions can be previewed on GitHub by clicking on the filename.
 
-The contract is too hard for most struggling writers: It only works with the most committed writers who need this kind of structure.
+Org-mode is a variant of markdown on steriods.
+It was designed to be used in Emacs but it can be used in other editors.
+It has attracted many young people to Emacs in the past decade.
+
+The keeping of the writing contract is too hard for most struggling writers: It only works with the most committed writers who need this kind of structure.
 These contracts may appeal the most to the *pioneer* personality type of the [Five Voices](https://5voices.com/) personality classification system.
 
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
@@ -60,10 +62,10 @@ I decided to share the contract on GitHub to help others with the development of
 ## Zettelkastens
 
 The contract template mentions [zettelkastens](https://zettelkasten.de/posts/overview/) (slip-boxes).
-These are knowledge bases. 
-The paper version is akin to a card catalog of your knowledge.
-Many electronic versions have been implemented.
-Their graphical views of your knowledge web resembles an extended mindmap.
+These are knowledge bases that may assest the development of new writing projects.
+The paper version of the zettlekasten is akin to a card catalog of your knowledge.
+Many electronic versions have been implemented in the past decade.
+Some of them provide graphical views of your knowledge base that resembles an extended mindmap.
 
 I think [Obsidian](https://help.obsidian.md/Obsidian/Index) is the best option (i.e., intuitive to use, free, data stored locally).
 Emacs users will probably want to be [org-roam](https://www.orgroam.com/) because it is easier to capture entries on the fly than having to leave Emacs to use another application.
@@ -72,7 +74,7 @@ You can alway migrate your org-roam notes to Obsidian if org-roam get too hard t
 
 ## The unmodified WRITER CONTRACT Number 24
 
-This agreement starts August 1, 2021 (the “effective date”) and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
+This agreement starts August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
 The Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
 
