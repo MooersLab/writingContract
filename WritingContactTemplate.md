@@ -52,7 +52,6 @@ G. During the writing blocks, the contractor may do the following:
 
 The Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
 
-Contractor’s signature:                                  Date: July 30, 2021
+Contractor’s signature:   ___________ _______________                                Date: July 30, 2021
 
-Mentor’s signature:                                      Date: July 30, 2021
-
+Mentor’s signature:       ___________ _______________                                Date: July 30, 2021
