@@ -6,6 +6,8 @@ The above MS Word document was revised and used 24 times over six years (2016-20
 It is a form of writing accountability that operates daily during the work week. 
 We would exchange e-mails at the end of the day to report our progress.
 We would exchange contracts at the beginning of a contract period.
+Each person made their own contract with this customized terms to support meeting their writing goals.
+My version of the contract 24 is posted.
 
 Other people meet on Zoom and write during the Zoom session.
 We tried this once; my partner did not like it.
@@ -15,6 +17,9 @@ We had several multi-month breaks due to a sabbatical year and COVID infections.
 Our contracts were limited to several months.
 We used a Microsoft Word document because my partner did not use LaTeX.
 Markdown, org-mode, and LaTeX versions are provided above.
+I pared down the LaTeX version to fit one page.
+Its correpsonding PDF is posted too.
+The PDF was compiled on Overleaf.
 
 It is too hard for most struggling writers to follow: It only works with the most committed writers who need this kind of structure.
 These contracts would appeal the most to the pioneer personality type of the Five Voices classification system.
