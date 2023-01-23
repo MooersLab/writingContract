@@ -2,17 +2,18 @@
 
 ## The problem
 
-Some (most) writers need some form of external structure to support the keeping of their daily writing schedule.
+Successfull academics write a lot.
+The secret to writing a lot setting up a writing schedule and sticking to it.
+Some (most) writers find this hard to do and need some form of external structure to support the keeping of their daily writing schedule.
 
 ## The Solutions
 
 1. One approach is to use an accountability mechanism of reporting one's progress to another person. 
 This can be done via the means of reciprocal writing contracts with the other person.
-This works best with two people who was closely matched in the strength of their daily writing habit. ***This site provides template contracts for the first approach.***
+This works best with two people who was closely matched in the strength of their daily writing habit. ***This site provides template contracts for this  approach.***
 
 2. Another solution is to pay hundreds of dollars a year to participate in a on-line writing club where the members of a group hold each other accountable.
-Most of the people who join such groups are stuggling with sticking to a schedule.
-If you have a strong habit, this may not be for you.
+Most of the people who join such groups are stuggling with sticking to a writing schedule.
 
 3. A third solution is to form or join a writing group that meets briefly once a week to share their progress.
 These groups are tricky to sustain.
@@ -65,11 +66,11 @@ The contract template mentions [zettelkastens](https://zettelkasten.de/posts/ove
 These are knowledge bases that may assest the development of new writing projects.
 The paper version of the zettlekasten is akin to a card catalog of your knowledge.
 Many electronic versions have been implemented in the past decade.
-Some of them provide graphical views of your knowledge base that resembles an extended mindmap.
+Some of them provide graphical views of your knowledge base that resemble an extended mindmap.
 
 I think [Obsidian](https://help.obsidian.md/Obsidian/Index) is the best option (i.e., intuitive to use, free, data stored locally).
 Emacs users will probably want to be [org-roam](https://www.orgroam.com/) because it is easier to capture entries on the fly than having to leave Emacs to use another application.
-You can alway migrate your org-roam notes to Obsidian if org-roam get too hard to manage.
+You can also migrate your org-roam notes to Obsidian.
 
 
 ## The unmodified WRITER CONTRACT Number 24
