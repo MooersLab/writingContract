@@ -1,23 +1,45 @@
-# Writing Accoutability Contract
+# Writing Accountability Contract
 
 ## The problem
 
-Successfull academics write a lot.
-The secret to writing a lot setting up a writing schedule and sticking to it.
-Some (most) writers find this hard to do and need some form of external structure to support the keeping of their daily writing schedule.
+Successful academics write a lot.
+The secret to writing a lot is making it into a daily habit like brushing your teeth.
+You want to be able to jump into your writing task with as little friction and resistance as possible.
+Writing is turned into a daily habit by setting up a writing schedule and sticking to it for three or more weeks.
+
+Some (most) writers do not follow this advice.
+They are too undisciplined.
+It is hard to do.
+They need some form of external structure to support their daily writing schedule.
 
 ## The Solutions
 
 1. One approach is to use an accountability mechanism of reporting one's progress to another person. 
 This can be done via the means of reciprocal writing contracts with the other person.
-This works best with two people who was closely matched in the strength of their daily writing habit. ***This site provides template contracts for this  approach.***
+This works best with two people closely matched in the strength of their daily writing habits. ***This site provides template contracts for this  approach.***
 
-2. Another solution is to pay hundreds of dollars a year to participate in a on-line writing club where the members of a group hold each other accountable.
-Most of the people who join such groups are stuggling with sticking to a writing schedule.
+2. Another solution is to pay hundreds of dollars a year to participate in an online writing club, where the members hold each other accountable.
+Most people who join such groups struggle to stick to a writing schedule.
 
-3. A third solution is to form or join a writing group that meets briefly once a week to share their progress.
+3. A third solution is to form or join an existing writing group that meets briefly once a week to share their progress.
 These groups are tricky to sustain.
 Most people drop out after a few meetings.
+
+4. A fourth solution is an on-line accountability mechanism such as a Google Sheet where members of a writing group report their daily progress.
+The detail of the reporting is up to the individual.
+The total effort by day or effort by project can be reported in terms of time spent, words written, or both along with a brief note about what was accomplished.
+Sadly, most group members will not be active for a number of possible reasons:
+
+- they do not see the value of this exercise
+- they are too undisciplined to make the daily entries
+- they fear being judged
+- they want to hide their lack of commitment to writing
+- they want to retain secrecy about their efforts and projects
+- they want to hide that they are working on too many different projects
+- they want to avoid competition.
+
+However, the knowledge that group members have access to your posted writing progress can be an important motivator for those who lead by example.
+
 
 
 ## The details
