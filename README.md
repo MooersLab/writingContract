@@ -18,17 +18,18 @@ They need some form of external structure to support their daily writing schedul
 This can be done via the means of reciprocal writing contracts with the other person.
 This works best with two people closely matched in the strength of their daily writing habits. ***This site provides template contracts for this  approach.***
 
-2. Another solution is to pay hundreds of dollars a year to participate in an online writing club, where the members hold each other accountable.
+2. Another solution is to pay hundreds of dollars per year to participate in an online writing club, where the members hold each other accountable.
 Most people who join such groups struggle to stick to a writing schedule.
+Only about ten percent participate every day.
 
 3. A third solution is to form or join an existing writing group that meets briefly once a week to share their progress.
 These groups are tricky to sustain.
 Most people drop out after a few meetings.
 
-4. A fourth solution is an on-line accountability mechanism such as a Google Sheet where members of a writing group report their daily progress.
+4. A fourth solution is an online accountability mechanism, such as a Google Sheet on which members of a writing group report their daily progress.
 The detail of the reporting is up to the individual.
 The total effort by day or effort by project can be reported in terms of time spent, words written, or both along with a brief note about what was accomplished.
-Sadly, most group members will not be active for a number of possible reasons:
+Sadly, most group members will not be active for a number of reasons:
 
 - they do not see the value of this exercise
 - they are too undisciplined to make the daily entries
@@ -36,41 +37,42 @@ Sadly, most group members will not be active for a number of possible reasons:
 - they want to hide their lack of commitment to writing
 - they want to retain secrecy about their efforts and projects
 - they want to hide that they are working on too many different projects
-- they want to avoid competition.
+- they want to avoid competition
+- they have an alternate accountability mechanism that works and see no point in setting up a second system.
 
 However, the knowledge that group members have access to your posted writing progress can be an important motivator for those who lead by example.
+Some people will find this approach to have a large positive impact on their productivity.
 
-
+In summary, you can afford to pick one solution due to time and energy limitations.
 
 ## The details
 
 The above MS Word document was revised and used 24 times over six years (2016-2021) with a colleague at a different institution.
-The contract is a writing accountability tool that operates daily during the work week between two people: each persion is a Contractor and serves as the reciprocal Mentor for the other writer. 
+The contract is a writing accountability tool that operates daily during the work week between two people: each person is a Contractor and serves as the reciprocal Mentor for the other writer. 
 We exchanged e-mails at the end of the day to report our progress.
 
-We exchanged contracts at the beginning of a contract period.
+We exchanged contracts at the beginning of the contract period.
 Each person made their own contract with customized terms to support meeting their writing goals.
 The above example has items A, B, and C. 
-It was very challenging to sustain these three writing projects in parallel, but often we have no choice.
-Item A would be sufficient for beginers how lack an daily established writing habit.
+It was challenging to sustain these three writing projects in parallel, but we often had no choice.
+Item A would be sufficient for beginners who lack a daily established writing habit.
 
-Some people meet on Zoom and write during their schedueld writing times.
+Some people meet on Zoom and write during their scheduled writing times.
 This approach may be too stressful for some writing partners.
 
 Our contracts were limited to several months.
-We had several breaks due to a sabbatical year and COVID infections.
-We used a Microsoft Word document.
+We had several breaks due to a sabbatical year and COVID-19 infections.
+We used a Microsoft Word document for the contract.
 
-Markdown, org-mode, and LaTeX versions are also provided above.
-The PDF was compiled on Overleaf from the tex file.
+We provide versions of the contract in Markdown, org-mode, and LaTeX documents.
 The org-mode and markdown versions can be previewed on GitHub by clicking on the filename.
 
-Org-mode is a variant of markdown on steriods.
+Org-mode is a variant of markdown on steroids.
 It was designed to be used in Emacs but it can be used in other editors.
 It has attracted many young people to Emacs in the past decade.
 
 The keeping of the writing contract is too hard for most struggling writers: It only works with the most committed writers who need this kind of structure.
-These contracts may appeal the most to the *pioneer* personality type of the [Five Voices](https://5voices.com/) personality classification system.
+These contracts may appeal to the *pioneer* personality type of the [Five Voices](https://5voices.com/) personality classification system.
 
 Finding another like-minded person to serve as a writing partner (called the *Mentor* in the contract) is not easy.
 I met my partner in a subscription-based academic writing club.
@@ -78,9 +80,9 @@ I used the writing contracts as a substitute for my daily participation in the w
 I would consider making the contracts again if I found the right partner.
 
 These contracts helped me finish more writing projects and practice the habits listed in the contract during writing sessions.
-The last year of the contracts (2021), I published 11 papers (5 senior author papers).
+In the last year of the contracts (2021), I published 11 papers (5 senior author papers).
 I continue to practice the habits listed in the contract during my writing sessions.
-I decided to share the contract on GitHub to help others with the development of their daily writing habit.
+I decided to share the contract on GitHub to help others develop their daily writing habit.
 
 ## Zettelkastens
 
@@ -103,9 +105,9 @@ The Contractor is required to do the following writing tasks per day. The Contra
 
 A. Work on manuscript A1 for 90 minutes per day, M-F. Manuscript A1 is the most important and urgent manuscript. Its identity may change over the contract period. 
 
-B. Work on one grant proposal for 90 minutes per day, M-F. The contractor has a R01 due October 5th and another due December 5th.
+B. Work on one grant proposal for 90 minutes per day, M-F. The contractor's R01 is due October 5th, and another is due December 5th.
 
-C. Generative writing for one book reaching a minimum of 1000 new words by Friday of each week. The contractor has a soft goal on adding 4000 words a month. The contractor will work on the book on the weekends. 
+C. Generative writing for one book reaching a minimum of 1000 new words by Friday of each week. The contractor has a soft goal of adding 4000 words a month. The contractor will work on the book on the weekends. 
 
 D. Qualifying text includes:
 - Manuscripts, grant applications, books
@@ -140,7 +142,7 @@ G. During the writing blocks, the contractor may:
 -	submit manuscripts
 -	edit text
 -	work on bibliographies
--	track writing progress in Excel workbook
+-	track writing progress in the Excel workbook
 
 Contractor acknowledges to the Mentor that the Contractor agrees to abide by this Agreement.
 
