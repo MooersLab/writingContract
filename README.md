@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/static/v1?label=writingContract&message=0.2&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Writing Accountability Contract
 
 ## The problem
@@ -99,7 +102,7 @@ You can also migrate your org-roam notes to Obsidian.
 
 ## The unmodified WRITER CONTRACT Number 24
 
-This agreement starts August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
+This agreement starts on August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
 The Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
 
@@ -149,3 +152,18 @@ Contractor acknowledges to the Mentor that the Contractor agrees to abide by thi
 Contractor’s signature:		                                  Date: July 30, 2021
 
 Mentor’s signature: 		                                    Date: July 30, 2021
+
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |   Added badges, funding, and update table.  Massive rewrite of the solutions section.                                                      | 2024 May 22          |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
