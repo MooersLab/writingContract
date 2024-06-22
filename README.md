@@ -17,7 +17,7 @@ They need some form of external structure to support their daily writing schedul
 
 ## The Solutions
 
-1. One approach is to use an accountability mechanism of reporting one's progress to another person. 
+1. One approach is to use an accountability mechanism for reporting one's progress to another person. 
 This can be done via the means of reciprocal writing contracts with the other person.
 This works best with two people closely matched in the strength of their daily writing habits. ***This site provides template contracts for this  approach.***
 
@@ -41,7 +41,7 @@ Sadly, most group members will not be active for a number of reasons:
 - they want to retain secrecy about their efforts and projects
 - they want to hide that they are working on too many different projects
 - they want to avoid competition
-- they have an alternate accountability mechanism that works and see no point in setting up a second system.
+- they have an alternate accountability mechanism that works and sees no point in setting up a second system.
 
 However, the knowledge that group members have access to your posted writing progress can be an important motivator for those who lead by example.
 Some people will find this approach to have a large positive impact on their productivity.
@@ -68,7 +68,7 @@ We had several breaks due to a sabbatical year and COVID-19 infections.
 We used a Microsoft Word document for the contract.
 
 We provide versions of the contract in Markdown, org-mode, and LaTeX documents.
-The org-mode and markdown versions can be previewed on GitHub by clicking on the filename.
+The org-mode and markdown versions can be previewed on GitHub by clicking the filename.
 
 Org-mode is a variant of markdown on steroids.
 It was designed to be used in Emacs but it can be used in other editors.
@@ -91,7 +91,7 @@ I decided to share the contract on GitHub to help others develop their daily wri
 
 The contract template mentions [zettelkastens](https://zettelkasten.de/posts/overview/) (slip-boxes).
 These are knowledge bases that may assest the development of new writing projects.
-The paper version of the zettlekasten is akin to a card catalog of your knowledge.
+The paper version of the zettelkasten is akin to a card catalog of your knowledge.
 Many electronic versions have been implemented in the past decade.
 Some of them provide graphical views of your knowledge base that resemble an extended mindmap.
 
@@ -102,7 +102,7 @@ You can also migrate your org-roam notes to Obsidian.
 
 ## The unmodified WRITER CONTRACT Number 24
 
-This agreement starts on August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard, especially during a pandemic while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
+This agreement starts on August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
 The Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
 
@@ -124,7 +124,7 @@ D. Qualifying text includes:
 -	entries in annotated bibliography
 -	any other activity that advances the writing project
 
-E. Confirm achievement of A and B by sending an email with “Done" on the subject line to the Mentor by 11:59 PM. Done on Friday’s means that the book writing is finished.
+E. Confirm achievement of A and B by sending an email with “Done" on the subject line to the Mentor by 11:59 PM. Done on Fridays means that the book writing is finished.
 
 F. The contractor may not do the following during the writing blocks and will restart if any interruptions occur.
 -	check e-mail
