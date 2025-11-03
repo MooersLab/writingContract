@@ -155,42 +155,46 @@ Contractor’s signature:		                                  Date: July 30, 2021
 Mentor’s signature: 		                                    Date: July 30, 2021
 ```
 
-## habit-corming self-contract
+## Habit-forming self-contract
 
 It takes 3 weeks to develop a new habit. 
-Waiting or writing a writing contract to yourself can be a means of holding yourself accountable. 
-You can make a variant of the above contract that is just with yourself and do not require the signature of somebody else. 
-If you want to be more public about it you could recruit a family member to witness your signing of your contract. 
+Writing a writing contract to yourself can be a means of holding yourself accountable. 
+You can make a variant of the above contract that is just with yourself and does not require the signature of somebody else. 
+If you want to be more public about it, you could recruit a family member to witness your signing of your contract. 
 You could also limit the contract to just one week to see how it goes. 
 
-At the end of the first week you could go about evaluating how you did. 
+At the end of the first week, you could evaluate how you did. 
 You could identify what was working and what was not working for you. 
-Perhaps you find the above contract to be to complicated perhaps instead of working on multiple writing projects in a given day you might be more successful with just working on a single writing project in a given week during a 8-hour. Of focused effort. 
-You could then add to your writing contract sometime in the future the work on multiple writing projects. 
-You May want to focus on a single writing project in a given day and interleave the work on my second writing project on alternate days this approach reduces a context switching and eases the tracking of your effort.
+Perhaps you find the above contract to be too complicated or too onerous at this time.
+Perhaps instead of working on multiple writing projects in a given day, you might be more successful with just working on a single writing project in a given week during a 8-hour perioond of focused effort. 
+You could then add to your writing contract sometime in the future the work on two or more writing projects. 
+You may want to focus on a single writing project in a given day and interleave the work on my second writing project on alternate days.
+This approach reduces context switching and eases the tracking of your effort.
+Once your writing habit has become stronger and you have developed a good momentum on to writing projects, you may consider working on two projects on different days.
 
-Once your writing habit has become stronger and you have developed a good momentum on to writing projects you May consider working on two projects in a different day.
+Another variation is to try to integrate the Calvin Newport time blocking approach with the Pomodoro technique. 
+Newport's time blocking is kind of merciless because it requires the scheduling of every minute of the workday.
+The Pomodoro technique is focused on getting the next 25 minute Pomodoro finished. 
+The scheduling of every minute of the day is irrelevant and in fact it is suggested that you include some humane breaks between sets of pomodoro's. 
 
-Another variation is to try to integrate the calvin newport time blocking approach with the pomodoro technique. 
-Newports time blocking is kind of merciless because it requires the scheduling of every minute of a day that you are going to be focused.
-The pomodoro technique is focused on getting the next 25 minute palm with doro finished. 
-The scheduling of every minute of the day is irrelevant and in fact it is suggested that you include some humane brakes between sets of pomodoro's. 
+I think a blended approach in saner where you have set aside a block of time to work on a particular project in a particular mode.
+by that block of time can then be chopped up into rose if that block of time is longer than two or three hours you are want to introduce a break you can utilize you can insert that break time between the say two blocks assigned to particular activity I do not the the newport approach would require say reserving 15 minutes or half an hour for the break I would not bother with assigning the break time to a time block instead I had use the implicit approach of the pomodoro technique which does not track break time I think it is such a blended approach would actually be more robust and that you would be more likely to remain in the focus state during the day. 
 
-I think a blended approach where you have set aside a block of time to work on a particular project in a particular mode by that block of time can then be chopped up into rose if that block of time is longer than two or three hours you are want to introduce a break you can utilize you can insert that break time between the say two blocks assigned to particular activity I do not the the newport approach would require say reserving 15 minutes or half an hour for the break I would not bother with assigning the break time to a time block instead I had use the implicit approach of the pomodoro technique which does not track break time I think it is such a blended approach would actually be more robust and that you would be more likely to remain in the focus state during the day. 
-
-The number of pomodoros that you could achieve in an 8-hour. Would probably be 14 because of the time that you would have to spend on breaks it is been my personal experience that you can only go beyond 14 in a given day when you are working up against a deadline and then you are probably going to be so exhausted the following day that you need to come reduce the number of pomodoro jose trying to reach on the following day as a result of your reduced energy and our experience adding more pomodoro's on a given day beyond 14 is just going to lead to stealing from your productivity the following day. 
+The number of pomodoros that you could achieve in an 8-hour period may be 14 because of the time that you would have to spend on breaks.
+It is been my personal experience that you can only go beyond 14 Pomos in a given day when you are working up against a deadline.
+Then you are probably going to be so exhausted the following day that you need to reduce the number of Pomodoros that you complete the next day.
+Adding more pomodoro's on a given day beyond 14 is just going to lead to stealing from your productivity the following day. 
 
 Calvin runstone calvin newport sells a book that has a time walking schedule built into it yeah he suggests using paper to do this time tracking other nonsense you can set up a table with the timetable inside of excel word are google scholar and you can set up your time blocks you can use the mouse to define their starting ends we think bye using the time blocking oh that you are forcing yourself to face your limited time that is available too do this work that you have to do the main pain associated with this focus approach is having to give up thinking about and working on other projects that you are more attractive to you you need to realize that no you do not have to you do yes you do have to give up focusing on those today but you can return to them after your focus or. Is done or are on another day when the current project is finished and you are able to move on to the next project.
 
-We copied and paste the mentored writing contract below from above and then we have edited this contract to convert it into a self contract in order to demonstrate how a more focused and limited approach.
-And customizing or adopting this approach you are probably going to want to limit the initial number of hours that you commit to your writing project in the first week. 
-Most people have so many other responsibilities as faculty members that trying to do more than 3 hours a day is quite difficult. 
-And the last you can get a lot done if you are focused and you are spending 3 hours a day on a single writing task. 
-This means you are going to put in 15 hours in a given week or in your first week and that efforts going to be a very high quality by following the pomodoro technique you can expect that to have made perhaps more progress in your first week than you might have in the prior month by taking a more diffuse and reward seeking approach to your work hey siri what time is it
-
+We copied and paste the mentored writing contract from above and then we have edited this contract to convert it into a self contract to demonstrate how a more focused and limited approach.
+By customizing or adopting this approach, you are probably going to want to limit the initial number of hours that you commit to your writing project in the first week. 
+Most people have so many other responsibilities as faculty members that trying to do more than 3 hours a day can be quite difficult. 
+This means you are going to put in 15 hours in your first week and that effort is going to be a very high quality by following the Pomodoro technique.
+You can expect that to make perhaps more progress in your first week than you might have in the prior month by taking a more diffuse and reward-seeking approach to your work.
 
 ```org-mode
-This agreement starts on November 3, 2025 (the 'effective date') and will end on November 8, 2021.
+This agreement starts on November 3, 2025 (the 'effective date') and will end at 11:59 PM November 8, 2021.
 The Contractor must do A and B each weekday while meeting conditions D-G. The goal is to make steady progress on one writing project a day.
 
 The Contractor is required to do the following writing tasks per day. 
@@ -207,21 +211,21 @@ The timeblock.el package will be used to schedule the time blocks in Emacs on No
 
 D. Qualifying generative writing tasks includes:
 - writing in the main.tex file
--	mind maps for planning 
+-	making mind maps for planning 
 -	wrting entries in writing log
--	drafts of e-mails that are directly related to the project
+-	drafting of e-mails that are directly related to the project
 
 E. Support writing includes the following:
 -	heavily edited or newly generated scripts for making figures for the writing document
 -	heavily edited or newly generated computer programs directly related to the project
 -	entries to databases used in the research described in the paper.
--	entries in annotated bibliography
+-	making entries in an annotated bibliography or zettelkasten
 - making figures
 - analyzing data
--	any other activity that advances the writing project
 -	retrieve and read literature
 -	work on bibliographies
 - relabeling and tagging PDFs
+-	any other activity that advances the writing project
 
 F. The contractor may not do the following during the focused effort blocks and will restart if any interruptions occur.
 -	check e-mail
