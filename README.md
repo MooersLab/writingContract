@@ -96,8 +96,9 @@ Many electronic versions have been implemented in the past decade.
 Some of them provide graphical views of your knowledge base that resemble an extended mindmap.
 
 I think [Obsidian](https://help.obsidian.md/Obsidian/Index) is the best option (i.e., intuitive to use, free, data stored locally).
-Emacs users will probably want to be [org-roam](https://www.orgroam.com/) because it is easier to capture entries on the fly than having to leave Emacs to use another application.
+Emacs users will probably want to use [org-roam](https://www.orgroam.com/) because it is easier to capture entries on the fly than having to leave Emacs to use another application.
 You can also migrate your org-roam notes to Obsidian.
+EKG and Denote are are two distinctly different approaches to building and maintaining a zettelkasten.
 
 
 ## The unmodified WRITER CONTRACT Number 24
