@@ -167,7 +167,7 @@ You could also limit the contract to just one week to see how it goes.
 At the end of the first week, you could evaluate how you did. 
 You could identify what was working and what was not working for you. 
 Perhaps you find the above contract to be too complicated or too onerous at this time.
-Perhaps instead of working on multiple writing projects in a given day, you might be more successful with just working on a single writing project in a given week during a 8-hour perioond of focused effort. 
+Perhaps instead of working on multiple writing projects in a given day, you might be more successful with just working on a single writing project in a given week during a 8-hour period of focused effort. 
 You could then add to your writing contract sometime in the future the work on two or more writing projects. 
 You may want to focus on a single writing project in a given day and interleave the work on my second writing project on alternate days.
 This approach reduces context switching and eases the tracking of your effort.
@@ -186,9 +186,14 @@ It is been my personal experience that you can only go beyond 14 Pomos in a give
 Then you are probably going to be so exhausted the following day that you need to reduce the number of Pomodoros that you complete the next day.
 Adding more pomodoro's on a given day beyond 14 is just going to lead to stealing from your productivity the following day. 
 
-Calvin runstone calvin newport sells a book that has a time walking schedule built into it yeah he suggests using paper to do this time tracking other nonsense you can set up a table with the timetable inside of excel word are google scholar and you can set up your time blocks you can use the mouse to define their starting ends we think bye using the time blocking oh that you are forcing yourself to face your limited time that is available too do this work that you have to do the main pain associated with this focus approach is having to give up thinking about and working on other projects that you are more attractive to you you need to realize that no you do not have to you do yes you do have to give up focusing on those today but you can return to them after your focus or. Is done or are on another day when the current project is finished and you are able to move on to the next project.
+Calvin Newport sells a book that has a time blocking schedule built into it.
+He suggests using paper to do this time tracking.
+You can set up a table inside of excel, Word, or  Google Sheets.
+You can set up your time blocks and use the mouse to define their starting and end times.
+We think bye using the time blocking that you are forcing yourself to face your limited time that is available.
+You  are forced to give up thinking about and working on other projects that you find to be more attractive.
 
-We copied and paste the mentored writing contract from above and then we have edited this contract to convert it into a self contract to demonstrate how a more focused and limited approach.
+We copied and pasted the mentored writing contract from above, and then we have edited this contract to convert it into a self contract to demonstrate how a more focused and limited approach.
 By customizing or adopting this approach, you are probably going to want to limit the initial number of hours that you commit to your writing project in the first week. 
 Most people have so many other responsibilities as faculty members that trying to do more than 3 hours a day can be quite difficult. 
 This means you are going to put in 15 hours in your first week and that effort is going to be a very high quality by following the Pomodoro technique.
