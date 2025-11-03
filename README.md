@@ -254,6 +254,7 @@ Witness’s signature: 		                                    Date: November 2, 2
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.2 |   Added badges, funding, and update table.  Massive rewrite of the solutions section.                                                      | 2024 May 22          |
+| Version 0.3 |   Added habit building self-contract.                                                                                                      | 2025 November 2      |     
 
 
 ## Sources of funding
