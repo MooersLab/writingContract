@@ -1,0 +1,56 @@
+#+Title: Writer Self Contract Number 1
+#+Options: title:nil date:nil toc:nil author:nil
+#+LaTeX_CLASS:article
+#+LaTeX_CLASS_OPTIONS:[9.5pt]
+#+LaTeX_HEADER:\usepackage[letterpaper, total={7.25in, 10in}]{geometry}
+#+Latex_HEADER:\usepackage[parfill]{parskip} % add blank line between paragraphs and do not indent paragraphs.
+
+#+Latex:\thispagestyle{empty}
+#+LaTeX:\subsubsection*{Writer Contract No. 1}
+This agreement starts on November 3, 2025 (the 'effective date') and will end at 11:59 PM November 7, 2025.
+The Contractor must do A-C each weekday while meeting conditions D-G.
+The goal is to make steady progress on one writing project a day.
+
+A. Work on manuscript A1.
+
+B. Follow the 14-pom -pomodoro technique.
+
+C. Spend 8 pomodoros per day on generative writing and 6 pomodoros on editing before noon.
+
+Support writing will be done outside of the 8 hour, focused-effort period.
+
+D. Qualifying generative writing tasks includes:
+- writing in the main.tex file
+-	making mind maps for planning
+-	wrting entries in writing log
+-	drafting of e-mails that are directly related to the project
+
+E. Support writing includes the following:
+- entries to databases used in the research described in the paper.
+- making entries in an annotated bibliography or zettelkasten
+- making figures
+- analyzing data
+- retrieve and read literature
+- relabeling and tagging PDFs
+- any other activity that advances the writing project
+
+F. The contractor may not do the following during the focused effort blocks and will restart if any interruptions occur.
+-	check e-mail
+-	surf the web
+-	listen to interviews or news show videos on YouTube (music is okay if it is not distracting)
+-	answer the phone
+-	keep their office door open
+-	accept visitors
+
+G. During the writing blocks, the contractor may:
+-	take bio breaks
+-	do planning related to the writing project
+-	write cover letters
+-	submit manuscripts
+
+The Contractor agrees to abide by this Agreement.\\
+\vspace{0.25in}
+Contractor’s signature:  \\
+
+\hrulefill \\
+Date: November 3, 2025
