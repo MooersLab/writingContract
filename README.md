@@ -102,6 +102,7 @@ You can also migrate your org-roam notes to Obsidian.
 
 ## The unmodified WRITER CONTRACT Number 24
 
+```org
 This agreement starts on August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
 The Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
@@ -152,7 +153,7 @@ Contractor acknowledges to the Mentor that the Contractor agrees to abide by thi
 Contractor’s signature:		                                  Date: July 30, 2021
 
 Mentor’s signature: 		                                    Date: July 30, 2021
-
+```
 
 ## habit-corming self-contract
 
