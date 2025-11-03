@@ -104,7 +104,7 @@ EKG and Denote are are two distinctly different approaches to building and maint
 ## The unmodified WRITER CONTRACT Number 24
 
 ```org
-This agreement starts on August 1, 2021 (the 'effective date') and will end on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
+This agreement commences on August 1, 2021 (the 'Effective Date') and will terminate on October 1, 2021. The agreement is between ZZZZZZ ZZZZZZZ (Contractor) and XXXXX XXXXXXX (Mentor). The Contractor must do A-C each weekday while meeting conditions D-G. The goal is to make steady progress on two writing projects a day. This is hard while serving as a core lab director, teaching, serving on a NIH study section, and serving on several internal and external committees. 
 
 The Contractor is required to do the following writing tasks per day. The Contractor may do `windfall' writing outside of these writing blocks on the same or other projects. The designated blocks of time in A-B do not need to be adjacent.
 
@@ -159,45 +159,42 @@ Mentor’s signature: 		                                    Date: July 30, 2021
 ## Habit-forming self-contract
 
 It takes 3 weeks to develop a new habit. 
-Writing a writing contract to yourself can be a means of holding yourself accountable. 
-You can make a variant of the above contract that is just with yourself and does not require the signature of somebody else. 
-If you want to be more public about it, you could recruit a family member to witness your signing of your contract. 
+Writing a contract with yourself can be a way to hold yourself accountable. 
+You can create a variant of the above contract that does not require the signature of another person. 
+If you want to make it more public, you could recruit a family member to witness your signing of the contract. 
 You could also limit the contract to just one week to see how it goes. 
 
 At the end of the first week, you could evaluate how you did. 
-You could identify what was working and what was not working for you. 
-Perhaps you find the above contract to be too complicated or too onerous at this time.
-Perhaps instead of working on multiple writing projects in a given day, you might be more successful with just working on a single writing project in a given week during a 8-hour period of focused effort. 
-You could then add to your writing contract sometime in the future the work on two or more writing projects. 
-You may want to focus on a single writing project in a given day and interleave the work on my second writing project on alternate days.
+You can identify what works and what doesn't work for you. 
+You may find the above contract too complicated or too onerous at this time.
+Instead of working on multiple writing projects in a given day, you might be more successful with just working on a single writing project in a given week during 8 hours of focused effort. 
+You could then add to your writing contract the work on two or more writing projects. 
+You may want to focus on a single writing project on a given day and interleave the work on a second writing project on alternate days.
 This approach reduces context switching and eases the tracking of your effort.
-Once your writing habit has become stronger and you have developed a good momentum on to writing projects, you may consider working on two projects on different days.
+Once your writing habit has become stronger and you have developed good momentum on your writing projects, you may consider working on two projects on different days of the week.
 
 Another variation is to try to integrate the Calvin Newport time blocking approach with the Pomodoro technique. 
 Newport's time blocking is kind of merciless because it requires the scheduling of every minute of the workday.
 The Pomodoro technique is focused on getting the next 25 minute Pomodoro finished. 
-The scheduling of every minute of the day is irrelevant and in fact it is suggested that you include some humane breaks between sets of pomodoro's. 
+The scheduling of every minute of the day is irrelevant and in fact it is suggested that you include some humane breaks between sets of Pomodoro's. 
 
-I think a blended approach in saner where you have set aside a block of time to work on a particular project in a particular mode.
-by that block of time can then be chopped up into rose if that block of time is longer than two or three hours you are want to introduce a break you can utilize you can insert that break time between the say two blocks assigned to particular activity I do not the the newport approach would require say reserving 15 minutes or half an hour for the break I would not bother with assigning the break time to a time block instead I had use the implicit approach of the pomodoro technique which does not track break time I think it is such a blended approach would actually be more robust and that you would be more likely to remain in the focus state during the day. 
-
-The number of pomodoros that you could achieve in an 8-hour period may be 14 because of the time that you would have to spend on breaks.
+The number of Pomodoros that you could achieve in an 8-hour period may be 14 because of the time that you would have to spend on breaks.
 It is been my personal experience that you can only go beyond 14 Pomos in a given day when you are working up against a deadline.
 Then you are probably going to be so exhausted the following day that you need to reduce the number of Pomodoros that you complete the next day.
-Adding more pomodoro's on a given day beyond 14 is just going to lead to stealing from your productivity the following day. 
+Adding more Pomodoro's on a given day beyond 14 is just going to lead to stealing from your productivity the following day. 
 
 Calvin Newport sells a book that has a time blocking schedule built into it.
 He suggests using paper to do this time tracking.
-You can set up a table inside of excel, Word, or  Google Sheets.
+You can set up a table inside of Excel, Word, Google Sheets, or one a white sheet of paper.
 You can set up your time blocks and use the mouse to define their starting and end times.
-We think bye using the time blocking that you are forcing yourself to face your limited time that is available.
-You  are forced to give up thinking about and working on other projects that you find to be more attractive.
+We think by using the time blocking that you are forcing yourself to face your limited time that is available.
+You  are forced to give up thinking about and working on other projects that you find to be more attractive but cannot finish today.
 
-We copied and pasted the mentored writing contract from above, and then we have edited this contract to convert it into a self contract to demonstrate how a more focused and limited approach.
+We copied and pasted the mentored writing contract from above, and then we have edited this contract to convert it into a self contract to demonstrate a more focused and limited approach.
 By customizing or adopting this approach, you are probably going to want to limit the initial number of hours that you commit to your writing project in the first week. 
-Most people have so many other responsibilities as faculty members that trying to do more than 3 hours a day can be quite difficult. 
-This means you are going to put in 15 hours in your first week and that effort is going to be a very high quality by following the Pomodoro technique.
-You can expect that to make perhaps more progress in your first week than you might have in the prior month by taking a more diffuse and reward-seeking approach to your work.
+Most people have so many other responsibilities as faculty members that trying to do more than 3 hours of writing a day can be quite difficult. 
+This means you are going to put in 15 hours in your first week and that effort is going to be of a very high quality by following the Pomodoro Technique.
+You can expect that to make perhaps more progress in your first week than you might have in the prior month by taking a more diffuse approach to your work.
 
 ```org-mode
 This agreement starts on November 3, 2025 (the 'effective date') and will end at 11:59 PM November 8, 2021.
@@ -256,8 +253,6 @@ Contractor’s signature:		                                  Date: November 2, 2
 Witness’s signature: 		                                    Date: November 2, 2025
 
 ```
-
-
 
 
 ## Update history
